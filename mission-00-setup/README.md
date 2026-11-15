@@ -15,17 +15,15 @@
 
 ## Commands / Tools used
 
-- Commands used
-    - mkdir     - touch
-
-- Git operations used
-    - git init
-    - git status
-    - git add .
-    - git commit -m " "
-
-- Files
-    - [structure.bash](mission-00-setup/structure.bash): Has all the mkdir and touch commands.    Initialy it was under [root directory](..), then i moved it inside the mission-00-setup/
+| File/operator | Purpose |
+| --- | --- |
+| `mkdir` | Create the required folders for the project structure |
+| `touch` | Create empty files needed in the project structure |
+| `git init` | Initialize the Git repository |
+| `git status` | Check the repository status and see changed files |
+| `git add .` | Stage all created files for the next commit |
+| `git commit -m " "` | Save the project setup as a commit with a message |
+| [structure.bash](mission-00-setup/structure.bash) | Contains the shell commands used to create the folder and file structure |
 
 
 ## My understanding
