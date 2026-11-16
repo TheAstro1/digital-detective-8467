@@ -31,4 +31,4 @@ The main goal of this assignment is to:
 
 ##
 
-Each mission is completed in sequence and committed saperately 
+Each mission is completed in sequence and committed separately 

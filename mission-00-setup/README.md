@@ -23,11 +23,13 @@
 | `git status` | Check the repository status and see changed files |
 | `git add .` | Stage all created files for the next commit |
 | `git commit -m " "` | Save the project setup as a commit with a message |
+| `git --version` | To check Git version (Git 2.55.0) |
+| `python --version` | To check Python version (Python 3.14.7) |
 | [structure.bash](mission-00-setup/structure.bash) | Contains the shell commands used to create the folder and file structure |
 
 
 ## My understanding
-
+Understood how to create a folder structure for the project and how to use git commands to initialize a repository, check status, stage files, and commit changes. Understood the importance of a README file in a project repository and clear folder structure.
 
 ## Difficulties faced
 No major difficulty
