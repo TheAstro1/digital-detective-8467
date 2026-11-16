@@ -11,6 +11,9 @@
 - Made a .bash file
 - Worte all the commands necessary to create the structure in there
 - Ran the file via terminal
+- Initialized git
+- Connected the local repo to the GitHub repo
+- Staged and commented the file structure
 
 
 ## Commands / Tools used
